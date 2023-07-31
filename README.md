@@ -1,4 +1,4 @@
-"# Basics-of-DevOps" 
+# Basics-of-DevOps
 
 
-## (Linux)[/Linux] Установка и обновления системы Linux. Основы администрирования.
+## [Linux](/Linux/Tasks.md) Установка и обновления системы Linux. Основы администрирования.
